@@ -1,0 +1,19 @@
+type: Discrete
+source: \\sfs\data\public\1.avi
+length: 6133
+features: smile, nod
+######
+smile,20,100
+smile,300,500
+smile,900,1000
+smile,1232,1349
+smile,2458,3100
+smile,3456,3987
+smile,5000,5125
+======
+nod,90,100
+nod,300,340
+nod,798,803
+nod,1000,1089
+nod,2010,2300
+nod,3100,3987
